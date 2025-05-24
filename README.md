@@ -31,8 +31,8 @@ This is a sorting algorithm visualizer that visualizes the following algorithms:
    git clone https://github.com/your-username/project-name.git
 
 2. **Adjust the make file**
-Open the Makefile and update the include paths for SDL2 and SDL2_ttf to match your local setup.
 
+   Open the Makefile and update the include paths for SDL2 and SDL2_ttf to match your local setup.
 3. **Build the project**
     Run the following command in the directory
     ```bash
@@ -41,5 +41,5 @@ Open the Makefile and update the include paths for SDL2 and SDL2_ttf to match yo
     !!!NOTE u need to have SDL2.dll , SDL2_ttf.dll and arial.ttf to run the .exe file
     ```bash
     .\sorting_visualizer.exe
-or just run directly from folder by double clicking
+    or just run directly from folder by double clicking
     
