@@ -41,5 +41,5 @@ This is a sorting algorithm visualizer that visualizes the following algorithms:
     !!!NOTE u need to have SDL2.dll , SDL2_ttf.dll and arial.ttf to run the .exe file
     ```bash
     .\sorting_visualizer.exe
-    or just run directly from folder by double clicking
+    or just run directly from folder by double clicking.
     
